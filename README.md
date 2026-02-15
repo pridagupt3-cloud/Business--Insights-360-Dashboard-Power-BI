@@ -1,74 +1,193 @@
-# AtliQ Business--Insights-360-Dashboard-Power-BI
-Project Overview
-This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
+# 📊 AtliQ Business Insights 360 Dashboard | Power BI
 
-Live Dashboard Link: https://app.powerbi.com/groups/me/reports/de9d0173-167c-4691-9864-bcd0aafb79d9/ReportSectionf6690761c749d4d4e3c2?experience=power-bi
-Finance View
-Objectives
-Improve financial planning and budgeting processes.
-Enhance cost control and expense management.
-Key Achievements
-Implemented a robust financial forecasting model, resulting in more accurate budget predictions.
-Created benchmarking against last year and target goals for budgeting.
-Sales View
-Objectives
-Increase sales revenue and market share.
-Enhance customer relationship management.
-Key Achievements
-Created customer and product overall sales performance report and unit economics.
-Identified sales trends and track KPIs
-Supply Chain View
-Objectives
-Optimize inventory management and reduce lead times.
-Enhance supplier relationships for cost savings.
-Key Achievements
-1.Identified forecast accuracy % , net error % ,absolute error % trends 2. Key Metrices by customers and products demanding supply management.
+<p align="center">
 
-Executive View
-Objectives
-Provide an overview of the entire organization's performance.
-Enable data-driven decision-making for top management.
-Key Achievements
-Developed an executive dashboard for real-time performance monitoring.
-Shows revenue by division, customers , products and channels and ribbon chart for manufacturers.
-Marketing View
-Objectives
-Increase brand visibility and customer engagement.
-Implement data-driven marketing strategies.
-Key Achievements
-Created region and product wise overall market performance report and unit economics.
-Identified market trends and track KPIs
-Skills
-Learnt Power BI fundamentals
-creating calcualting columns and DAX measures
-Data Modelling ,data validation techniques and using KPI indicators
-using bookmarks to switch between two visuals and conditional formatting
-page navigation with buttons
-using tooltips to save page area
-Dynamic titles based on the applied filters
-PowerBI services for publishing and sharing reports online
-Auto refresh setup for data through gateway
-Creating date table using M language
-Tech Stacks
-SQL
-PowerBI Desktop
-DAX language
-Dax studio( TO REDUCE FILE SIZE)
-Project Charter file
-Business Related Terms
-Gross Margin,Gross Margin %
-Gross Sales , Gross Sales %
-Pre _ invoice deductions and Post _ invoice deductions
-Net sales , Net Invoice Sales
-Net Profit and Net Profit %
-COGS(cost of goods sold)
-YTG (year to go)
-YTD ( year to date)
-Direct ,retailer, consumer and distributors
-Soft Skills
-Stakeholders mapping analysis
-Effective communication with stakeholders feedback and management
-Business and domain knowledge in sales,finance,marketing and supply chain.
-Conclusion
-This dashboard answers many business questions based on different scenerio.
-This report can be used to take data driven decision to make AtliQ more profitable.
+<img src="https://img.shields.io/badge/Tool-PowerBI-F2C811?logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Language-DAX-F2C811"/>
+
+<img src="https://img.shields.io/badge/Database-SQL-blue"/>
+
+<img src="https://img.shields.io/badge/Project-Completed-brightgreen"/>
+
+<img src="https://img.shields.io/badge/Level-Enterprise--Grade-red"/>
+
+</p>
+
+---
+
+# 🚀 Live Interactive Dashboard
+
+🔗 **Click below to explore the dashboard**
+
+👉 https://app.powerbi.com/groups/me/reports/de9d0173-167c-4691-9864-bcd0aafb79d9/ReportSectionf6690761c749d4d4e3c2?experience=power-bi
+
+---
+
+# 📌 Project Overview
+
+The **AtliQ Business Insights 360 Dashboard** is an enterprise-level Business Intelligence solution built using Power BI to enable stakeholders to make **data-driven decisions** across multiple business domains.
+
+This dashboard provides insights into:
+
+- 💰 Finance
+- 📈 Sales
+- 🚚 Supply Chain
+- 📣 Marketing
+- 🧑‍💼 Executive Leadership
+
+---
+
+# 🎯 Business Problem
+
+AtliQ Hardware lacked a centralized analytics solution to:
+
+- Track KPIs across departments
+- Monitor revenue and profitability
+- Improve forecasting accuracy
+- Enable leadership decision-making
+
+---
+
+# 💡 Solution
+
+Developed a **fully interactive Power BI dashboard** integrating multiple business functions and delivering real-time insights.
+
+---
+
+# 📊 Dashboard Views & Insights
+
+---
+
+# 💰 Finance View
+
+### Objectives
+
+- Improve financial planning
+- Enhance cost control
+
+### Key Insights
+
+✔ Budget vs Target vs Last Year comparison  
+✔ Financial Forecasting  
+✔ Profitability Analysis  
+
+---
+
+# 📈 Sales View
+
+### Objectives
+
+- Increase revenue visibility
+- Identify top customers & products
+
+### Key Insights
+
+✔ Customer Performance Analysis  
+✔ Product Performance Analysis  
+✔ Revenue Trends  
+✔ Unit Economics  
+
+---
+
+# 🚚 Supply Chain View
+
+### Objectives
+
+- Improve forecast accuracy
+- Optimize inventory management
+
+### Key Insights
+
+✔ Forecast Accuracy %  
+✔ Net Error %  
+✔ Absolute Error %  
+✔ Product Demand Trends  
+
+---
+
+# 🧑‍💼 Executive View
+
+### Objectives
+
+- Enable strategic decision-making
+
+### Key Insights
+
+✔ Revenue by Division  
+✔ Revenue by Product  
+✔ Revenue by Customer  
+✔ Channel Performance  
+
+---
+
+# 📣 Marketing View
+
+### Objectives
+
+- Improve marketing performance
+
+### Key Insights
+
+✔ Regional Market Performance  
+✔ Product-level Performance  
+✔ Profitability Analysis  
+
+---
+
+# 🛠 Tech Stack
+
+| Tool | Purpose |
+|-----|--------|
+| Power BI Desktop | Dashboard Development |
+| Power BI Service | Dashboard Publishing |
+| SQL | Data Extraction |
+| DAX | Measures & Calculations |
+| Power Query | Data Transformation |
+| DAX Studio | Optimization |
+
+---
+
+# 📚 Skills Demonstrated
+
+- Data Modeling
+- DAX Measures
+- Calculated Columns
+- KPI Indicators
+- Conditional Formatting
+- Dynamic Titles
+- Bookmarks
+- Page Navigation
+- Tooltips
+- Data Validation
+- Dashboard Publishing
+- Auto Refresh Setup
+
+---
+
+# 📊 Business Metrics Used
+
+- Gross Sales
+- Net Sales
+- Net Profit
+- Gross Margin %
+- COGS
+- Forecast Accuracy %
+- YTD / YTG
+
+---
+
+# 📈 Business Impact
+
+✔ Improved Forecast Accuracy  
+
+✔ Enabled Data-driven Decisions  
+
+✔ Reduced Manual Reporting  
+
+✔ Improved Business Visibility  
+
+---
+
+
+
