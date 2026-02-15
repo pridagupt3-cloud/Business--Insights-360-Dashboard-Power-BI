@@ -1,8 +1,8 @@
-# Business--Insights-360-Dashboard-Power-BI
+# AtliQ Business--Insights-360-Dashboard-Power-BI
 Project Overview
 This project aims to streamline and optimize various aspects of AtliQ Hardwres business, including Finance, Sales, Supply Chain, Executive Management, and Marketing. The primary objectives and key achievements for each perspective are outlined below:
 
-Live Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiNWI1OWY4YWUtNGY2ZS00ZWQxLWJkMDQtYjgzNTBmMGZjNDFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Live Dashboard Link: https://app.powerbi.com/groups/me/reports/de9d0173-167c-4691-9864-bcd0aafb79d9/ReportSectionf6690761c749d4d4e3c2?experience=power-bi
 Finance View
 Objectives
 Improve financial planning and budgeting processes.
